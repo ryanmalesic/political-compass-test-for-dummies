@@ -1,6 +1,6 @@
 # Political Compass Test For Dummies
 
-### A political compass test inspired by a post by /u/ihatehappyendings and a comment by /u/SpoopyBoii on /r/politicalcompassmemes
+A political compass test inspired by a post by /u/ihatehappyendings and a comment by /u/SpoopyBoii on /r/politicalcompassmemes
 
 ### Install
 ```
